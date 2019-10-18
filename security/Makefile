@@ -898,6 +898,7 @@
     SUBDIR += py-ed25519ll
     SUBDIR += py-exscript
     SUBDIR += py-fail2ban
+    SUBDIR += py-fail2ban-devel
     SUBDIR += py-fchksum
     SUBDIR += py-fido2
     SUBDIR += py-first-server
