@@ -584,6 +584,7 @@
     SUBDIR += roundcube-yubikey_auth
     SUBDIR += rspamd
     SUBDIR += rspamd-devel
+    SUBDIR += rspamd-test
     SUBDIR += rss2email2
     SUBDIR += rss2email3
     SUBDIR += rubygem-actionmailer4
