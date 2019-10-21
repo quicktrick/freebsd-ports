@@ -1,7 +1,8 @@
 # $FreeBSD$
 
 PORTNAME=	fail2ban-devel
-DISTVERSION=	0.11.0.dev3.20191011
+DISTVERSION=	0.11.0.dev3.20191018
+DISTVERSIONSUFFIX=	-g3515d06
 CATEGORIES=	security python
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
 
@@ -19,7 +20,7 @@ USES=		python:patch shebangfix
 USE_GITHUB=	yes
 GH_ACCOUNT=	fail2ban
 GH_PROJECT=	fail2ban
-GH_TAGNAME=	8c6a547
+GH_TAGNAME=	3515d06
 USE_PYTHON=	autoplist distutils
 USE_RC_SUBR=	fail2ban
 
